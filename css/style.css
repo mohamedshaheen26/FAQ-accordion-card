@@ -69,6 +69,7 @@ main h1 {
   text-transform: uppercase;
   font-size: 2rem;
   margin-top: 0;
+  margin-bottom: 20px;
 }
 
 main .questions {
@@ -96,13 +97,13 @@ main .questions .question div:hover .heading {
 
 .heading {
   font-weight: 400;
-  margin: 1.4rem 0;
+  margin: 0.8rem 0;
   color: var(--main-color);
 }
 
 .answer {
   display: none;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: var(--main-color2);
 }
 
