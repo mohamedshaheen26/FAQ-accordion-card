@@ -39,6 +39,7 @@ main {
   background-image: url(../images/bg-pattern-desktop.svg);
   background-repeat: no-repeat;
   background-position: 1260% 65%;
+  box-shadow: 0px 10px 25px #4d4d4d;
 }
 
 main .img-wrapper {
